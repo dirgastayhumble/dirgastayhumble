@@ -57,10 +57,12 @@ Every small improvement matters.
 
 More projects coming soon.
 
+
 🫁 My Hobby
 
 ⚽️ Football
 🎮 Gamming
+
 
 
 🌙 One Day
