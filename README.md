@@ -60,10 +60,10 @@ More projects coming soon.
 🐼 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dirgazxz&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dirgastayhumble&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dirgazxz&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dirgastayhumble&theme=github-dark&hide_border=true" />
 </p>
 
 🌙 One Day
