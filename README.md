@@ -1,7 +1,7 @@
 Hi, I’m Dirga 🫆
 
 <p align="center">
-  <img src="https://files.catbox.moe/GANTI-FOTO.jpg" width="180" style="border-radius: 50%;" />
+  <img src="https://files.catbox.moe/khnk3q.jpeg" width="180" style="border-radius: 50%;" />
 </p>
 <h3 align="center">A person who keeps learning, building, and moving forward.</h3>
 <p align="center">
@@ -22,12 +22,12 @@ I’m still learning, still experimenting, and still building my way forward.
 
 👅 What I’m Into
 
-* 💻 Programming & Technology
-* 🌐 Web Development
-* 🎨 Creating clean and simple designs
-* 🚀 Building personal projects
-* 📚 Learning something new every day
-* 🧠 Improving skills & mindset
+💻 Programming & Technology
+🌐 Web Development
+🎨 Creating clean and simple designs
+🚀 Building personal projects
+📚 Learning something new every day
+🧠 Improving skills & mindset
 
 
 🛠️ Currently Learning
@@ -57,14 +57,11 @@ Every small improvement matters.
 
 More projects coming soon.
 
-🐼 GitHub
+🫁 My Hobby
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dirgastayhumble&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dirgastayhumble&theme=github-dark&hide_border=true" />
-</p>
+⚽️ Football
+🎮 Gamming
+
 
 🌙 One Day
 
